@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MapViewer</string>
+    <string name="loading">Loading...</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_aga_khan">Map</string>
+    <string name="title_activity_guru_nanak">Map</string>
+    <string name="title_activity_knh">Map</string>
+    <string name="title_activity_mathare">Map</string>
+    <string name="title_activity_matter">Map</string>
+    <string name="title_activity_avenue">Map</string>
+    <string name="title_activity_lions">Map</string>
+    <string name="title_activity_pumwani">Map</string>
+    <string name="title_activity_gertrudes">Map</string>
+</resources>
